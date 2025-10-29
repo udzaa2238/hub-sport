@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=1903770&extension=ts&play_token=nvfhI7bc87
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:a5:dc:3b&stream=1032529&extension=m3u8&play_token=
 http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903770&extension=m3u8&play_token=
